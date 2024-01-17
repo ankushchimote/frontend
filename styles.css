@@ -1,0 +1,27 @@
+body{
+    background-image: url("2.jpg");
+    background-size: cover;
+}
+p{
+    text-align: center;
+    margin-bottom: 3%;
+    color: black;
+    font-family: Lucida Console;
+}
+
+.form{
+    text-align: center;
+    color: black;
+    font-family: Lucida Console;
+    
+}
+
+h1{
+    text-align: center;
+    color: black;
+    text-shadow: 1px 1px;
+}
+
+#wrapper{
+    margin-top:120px;
+}
